@@ -33,4 +33,7 @@ Implement a GUI in JavaFX for the requirements of the first task.
 
 It might be a good choice to create a new project with the JavaFX archetype.
 
+---
+> Implement the software with a clean architecture. Use abstraction and do not repeat yourself. Keep an eye on runtime and memory complexity of your program.
+
 
