@@ -16,8 +16,6 @@ Your task is to implement a program which fulfills the following requirements:
   The word `Java` occurs 3 times.
 * Your program should validate an email with regular expressions. For example `foo@example.org` is valid but `foo@example` is not.
 
-Use JUnit 5 for the tests. They have a very well written [user guide](https://junit.org/junit5/docs/current/user-guide/).
-
 ---
 
 ## Second Task
@@ -25,6 +23,8 @@ Use test driven development **TDD for the whole** exercise.
 The three rules of TDD can be found [here.](https://medium.com/@rrugamba/3-laws-of-tdd-58b5ec46a998)
 
 You must have a code coverage of nearly 100% procent. You can check the coverage in Eclipse very easily. Here is a [description](https://developers.redhat.com/blog/2017/10/06/java-code-coverage-eclipse#:~:text=To%20use%20it%2C%20you%20can,colors%20are%20fairly%20self%2Dexplanatory) how to do this.
+
+Use JUnit 5 for the tests. They have a very well written [user guide](https://junit.org/junit5/docs/current/user-guide/).
 
 ---
 
