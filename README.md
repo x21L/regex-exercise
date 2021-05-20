@@ -3,7 +3,7 @@
 Your task is to implement a program which fulfills the following requirements:
 
 * It should detect spam messages. In `resources/spams` you will find some example spam texts.
-* Implement a password validator. Define requirements for a strong password. Moreover, it must not be in the provided dictionary. The dictionary is also in the `resource` folder.
+* Implement a password validator. Define requirements for a strong password. Moreover, it must not be in the provided dictionary. The dictionary is also in the `resource` folder. A score on how likely it is spam would be very nice.
 * It must also be possible count the occurrence of the word `Java` in a text. A sample text is in the `resources`. Lower/upper case does not matter. 
   Find an example below:
   
@@ -32,3 +32,5 @@ Use JUnit 5 for the tests. They have a very well written [user guide](https://ju
 Implement a GUI in JavaFX for the requirements of the first task.
 
 It might be a good choice to create a new project with the JavaFX archetype.
+
+
