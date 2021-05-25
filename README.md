@@ -2,8 +2,8 @@
 ## First Task
 Your task is to implement a program which fulfills the following requirements:
 
-* It should detect spam messages. In `resources/spams` you will find some example spam texts.
-* Implement a password validator. Define requirements for a strong password. Moreover, it must not be in the provided dictionary. The dictionary is also in the `resource` folder. A score on how likely it is spam would be very nice.
+* It should detect spam messages. In `resources/spams` you will find some example spam texts. A score on how likely it is spam would be very nice.
+* Implement a password validator. Define requirements for a strong password. Moreover, it must not be in the provided dictionary. The dictionary is also in the `resource` folder. 
 * It must also be possible count the occurrence of the word `Java` in a text. A sample text is in the `resources`. Lower/upper case does not matter. 
   Find an example below:
   
